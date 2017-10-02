@@ -1,9 +1,0 @@
-*.pyc
-result
-images
-record
-snapshot
-.*
-*.nii
-*.nii.gz
-!/.gitignore
